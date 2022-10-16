@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil da Heloysa 😁
 - Pronouns: (she/her)
-- More about me -->
+- Mini Portfolio --> https://helxysa.github.io/mini-portfolio/
 
  <div>
    <a href="https://github.com/helxysa">
