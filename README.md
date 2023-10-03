@@ -1,5 +1,5 @@
 <h2> Hi, I'm Heloysa :)</h2>
-<img align='left' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s1YXl3bTAyNGY2N2VnZXV1dzgxaGVrZXI1aWozdmNoOXRlbTJjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZ033bAXmrstTLqZR4/giphy.gif" width="314">
+<img align='top' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2s1YXl3bTAyNGY2N2VnZXV1dzgxaGVrZXI1aWozdmNoOXRlbTJjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZ033bAXmrstTLqZR4/giphy.gif" width="314">
 
 
 
