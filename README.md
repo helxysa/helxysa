@@ -14,8 +14,6 @@ const heloysa = {
           },
 }
 ```
-Click here to know me more :)
-
 [<img src="https://raw.githubusercontent.com/helxysa/helxysa/master/socials/linkedin.png" height="40em" align="center" alt="Follow Helxysa on LinkedIn" title="Follow Heloysa on LinkedIn"/>](https://linkedin.com/in/heloysasz)
 [<img src="https://raw.githubusercontent.com/helxysa/helxysa/master/socials/instagram.svg" height="40em" align="center" alt="Follow Helxysa on Instagram" title="Follow Helxysa  on Instagram"/>](https://instagram.com/helxysa)
 
