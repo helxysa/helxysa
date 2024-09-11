@@ -4,8 +4,8 @@
 ```javascript
 const heloysa = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [React, Node, Express, Django],
+  code: [Javascript, Typescript, Python],
+  tools: [React, Node, Express, Django, TailwindCSS, Prisma ],
   others: {
            education: "Student of Computer Science at Unifap",
            hello: "Feel free to say hi, I'll be happy to meet ya :)"
