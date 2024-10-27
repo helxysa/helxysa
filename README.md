@@ -1,29 +1,68 @@
-  <h2>Hi, I'm Heloysa :)</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Heloysa+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Welcome+to+my+GitHub!+%E2%9C%A8;Full+Stack+Developer+in+the+making" alt="Typing SVG" />
+  </a>
+</div>
 
 
-```javascript
-const heloysa = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, Python],
-  tools: [React, Node, Express, Django, TailwindCSS, Prisma ],
-  others: {
-           education: "Student of Computer Science at Unifap",
-           hello: "Feel free to say hi, I'll be happy to meet ya :)"
-          },
-}
+ 
+<table align="center" border="0">
+  <tr border="0">
+    <td width="50%" align="center" border="0">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI4aTI1cGxmZWRxZnExdDRkcWg1a3J1c2cxZGExOGpxZnY1ang2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="190" height="190" />
+    </td>
+    <td width="50%" align="left" border="0">
+      <h2>💫 Quick Facts</h2>
+      
+      - 👩‍🎓 Computer Science student at UNIFAP
+      - 🚀 Always excited to learn new technologies
+      - 💡 Love solving problems through code
+      - 🌱 Currently exploring the world of web development
+      - ✨ Turning ideas into reality through programming
+      
+  </tr>
+</table>
 
-```
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helxysa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helxysa&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 
- <div align="center">
-   <a href="https://github.com/helxysa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helxysa&layout=compact&langs_count=6&theme=tokyonight"/>
-</div
-<p align="center">
-</p>
-  
-  <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-  <em>Lembre-se: todo bug é apenas um feature ainda não descoberto!</em>
-</p>
 
+## 🌈 Let's Connect!
+
+<div align="center">
+  <a href="mailto:heloysagama2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/heloysasz">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/helxysa">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
