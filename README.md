@@ -13,12 +13,13 @@
     </td>
     <td width="50%" align="left" border="0">
       <h2>💫 Quick Facts</h2>
+      <a href="https://heloysa-portfolio.vercel.app/" target="_blank">✨ Portfolio</a>
       
       - 👩‍🎓 Computer Science student at UNIFAP
       - 🚀 Always excited to learn new technologies
       - 💡 Love solving problems through code
       - 🌱 Currently exploring the world of web development
-      - ✨ Turning ideas into reality through programming
+     
       
   </tr>
 </table>
