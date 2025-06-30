@@ -7,7 +7,6 @@
 <table align="center" border="0">
   <tr border="0">
     <td width="50%" align="center" border="0">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI4aTI1cGxmZWRxZnExdDRkcWg1a3J1c2cxZGExOGpxZnY1ang2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="190" height="190" />
     </td>
     <td width="50%" align="left" border="0">
       <h2>💫 Quick Facts</h2>
