@@ -14,7 +14,6 @@ const developer = {
   role: "Junior Software Engineer",
   education: "Computer Science @ UNIFAP",
   focus: "Full-stack development with modern technologies",
-  currentlyLearning: "cloud patterns, system design, DevOps practices and CI/CD",
 };
 ```
 
