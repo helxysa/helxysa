@@ -10,7 +10,7 @@
 
 ```javascript
 const developer = {
-  name: "Heloysa Gama",
+  name: "Heloysa Uchoa",
   role: "Junior Software Developer",
   education: "Computer Science @ UNIFAP",
   focus: "Full-stack development with modern technologies",
