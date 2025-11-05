@@ -11,7 +11,7 @@
 ```javascript
 const developer = {
   name: "Heloysa Gama",
-  role: "Junior Software Developer",
+  role: "Software Developer",
   education: "Computer Science @ UNIFAP",
   focus: "Full-stack development with modern technologies",
 };
